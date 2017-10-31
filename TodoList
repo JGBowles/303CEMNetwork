@@ -1,0 +1,7 @@
+Basic plan: 
+- Go through all the labs and create a basic network from what's already been covered. 
+
+For higher marks: 
+- Automate everything through cron/shellscripts. 
+- Automate the starting of the gateway server. (sh startGateway etc). 
+- Be able to view the website through putting in the website url. Not curling the IP address. 
