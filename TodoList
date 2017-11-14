@@ -1,7 +1,6 @@
-Basic plan: 
-- Go through all the labs and create a basic network from what's already been covered. 
-
-For higher marks: 
-- Automate everything through cron/shellscripts. 
-- Automate the starting of the gateway server. (sh startGateway etc). 
-- Be able to view the website through putting in the website url. Not curling the IP address. 
+- Automate the starting of the gateway (sh startGateway etc)
+- Automate the startiung of the web server (nginx etc)
+- Research how to get the website to show up in a browser like a normal website (on customer PC be able to open firefox and visit our website)
+- Decide what file upload system we are going to use (SFTP, etc). 
+- Make sure you can't ping internal servers from the customer PC.
+- Do a BCP/BIA/RA/IT DR. 
